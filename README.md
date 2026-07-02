@@ -116,9 +116,3 @@ Honest list of things I'd improve if I revisited this properly:
 - Add basic preprocessing (grayscale, thresholding) before OCR — Tesseract is a
   lot more accurate on clean, high-contrast input.
 - Filter detections by Tesseract's confidence score to drop the junk boxes.
-
-## Author
-
-**Akshit** — originally built in 2021 as an early CV experiment.
-
-- GitHub: [@&lt;your-username&gt;](https://github.com/&lt;your-username&gt;)
