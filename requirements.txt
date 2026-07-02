@@ -1,0 +1,10 @@
+# Python 3.7+ recommended
+opencv-python>=4.5
+pytesseract>=0.3.8
+keyboard>=0.13.5
+
+# NOTE: pytesseract is only a wrapper. You also need the Tesseract OCR
+# engine installed separately on your system:
+#   Windows: https://github.com/UB-Mannheim/tesseract/wiki
+#   macOS:   brew install tesseract
+#   Linux:   sudo apt install tesseract-ocr
